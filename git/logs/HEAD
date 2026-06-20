@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 0380855a7a27d54d49080aa80813502fcb57ad93 MóvilZone Dev <usuario@example.com> 1781833358 -0400	commit (initial): Inicial: Sistema de gestión de inventario de celulares con React, Vite y Supabase
+0380855a7a27d54d49080aa80813502fcb57ad93 0000000000000000000000000000000000000000 MóvilZone Dev <usuario@example.com> 1781833610 -0400	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 0380855a7a27d54d49080aa80813502fcb57ad93 MóvilZone Dev <usuario@example.com> 1781833610 -0400	Branch: renamed refs/heads/master to refs/heads/main
+0380855a7a27d54d49080aa80813502fcb57ad93 0000000000000000000000000000000000000000 MóvilZone Dev <usuario@example.com> 1781834091 -0400	Branch: renamed refs/heads/main to refs/heads/main
+0380855a7a27d54d49080aa80813502fcb57ad93 0380855a7a27d54d49080aa80813502fcb57ad93 MóvilZone Dev <usuario@example.com> 1781834091 -0400	Branch: renamed refs/heads/main to refs/heads/main
+0380855a7a27d54d49080aa80813502fcb57ad93 e87512f17ed7d19bfcfb021189b3338d1897862a MóvilZone Dev <usuario@example.com> 1781834152 -0400	commit: Agregar configuración de Netlify para despliegue automático
+e87512f17ed7d19bfcfb021189b3338d1897862a f0b8e2ef99f3d3317e45973eaf6eb47fab3443f9 MóvilZone Dev <usuario@example.com> 1781834186 -0400	commit: Agregar guía completa de despliegue en Netlify y GitHub Pages
+f0b8e2ef99f3d3317e45973eaf6eb47fab3443f9 8f3fd5ca82f6617413b1f900f8d051b16393a0a8 MóvilZone Dev <usuario@example.com> 1781835545 -0400	commit: Fix: Actualizar configuración de Netlify para builds más confiables
+8f3fd5ca82f6617413b1f900f8d051b16393a0a8 6fbcd5d1808d160e27566b441e40eb8c0620aca1 MóvilZone Dev <usuario@example.com> 1781835696 -0400	commit: Fix: Especificar Node 20.19.0 para Netlify build
